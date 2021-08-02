@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-mongodb-pagination",
+  "version": "1.0.0",
+  "description": "Node Js MongoDB pagination demo project.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin Dinesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
